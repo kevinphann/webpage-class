@@ -1,0 +1,13 @@
+.line-block{
+    display:inline-block;
+    padding: 15px;
+    width: 150px;
+    background-color: white;
+    text-align: center;
+    /*border: 5px solid red;*/
+}
+.header {
+    /*border: 5px solid rgb(1, 1, 1);*/
+    background-color: grey;
+    padding: 5px;
+}
